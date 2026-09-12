@@ -24,4 +24,4 @@ These signs refer to spatial correlation, not temporal trends. See the [data dic
 
 Original rasters, attribute tables, encoding files and overviews are retained. Download the entire directory and use nearest-neighbour resampling for categorical values. Temporary GIS lock files are excluded.
 
-The supplied outputs are copied without reclassification or recalculation. Checksums establish copy integrity; model settings and manuscript statistics have not been independently reconstructed from these files.
+These files contain the supplied classification results. Consult the study methods for the analysis settings. Calculate regional proportions using pixel areas.
