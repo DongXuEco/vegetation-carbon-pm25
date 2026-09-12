@@ -1,0 +1,5 @@
+numpy
+rasterio
+geopandas
+matplotlib
+cartopy

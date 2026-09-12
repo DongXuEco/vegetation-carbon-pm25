@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Rhistory
+.RData
+.Rproj.user/
+*.asv
+.DS_Store
+Thumbs.db
+~$*
+.env
+.env.*
+!.env.example
+*.sr.lock
+*.ex.lock

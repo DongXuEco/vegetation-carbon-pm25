@@ -1,0 +1,15 @@
+* text=auto
+*.py text eol=lf
+*.js text eol=lf
+*.R text eol=lf
+*.m text eol=lf
+*.md text eol=lf
+*.xls binary
+*.xlsx binary
+*.shp binary
+*.shx binary
+*.dbf binary
+*.sbn binary
+*.sbx binary
+*.tif binary
+*.ovr binary
