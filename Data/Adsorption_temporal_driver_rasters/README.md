@@ -22,4 +22,4 @@ These codes describe contributions to Q trends, not Q–C correlation signs. The
 
 Download the entire directory to retain raster attribute tables, encoding files, overviews and available auxiliary metadata. Attribute-table Count fields are pixel counts, not area-weighted percentages. Use nearest-neighbour resampling for categorical data.
 
-Rasters and companion files are copied without changing their values. The empty Global_Attribution_Stats.csv source file is omitted. Copy checksums do not independently validate the original calculations or their agreement with manuscript area statistics.
+Regional area proportions must be calculated from the rasters using pixel-area weights.
