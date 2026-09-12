@@ -22,4 +22,4 @@ Carbon totals use density multiplied by pixel area and are converted to Pg C. Sp
 
 Use the source-data index to locate tables and vectors. The two included Python plotting scripts require external rasters. Confirm that input trend scaling matches the map class breaks and legend: annual and decadal slopes differ by a factor of ten.
 
-This upload package preserves the current source files. Packaging checks verify file integrity and script syntax; they do not rerun the Earth Engine models or establish full numerical reproduction of every manuscript panel.
+The repository contains selected source datasets. Running the full workflow requires the predictor rasters, training samples and asset configuration described above.
