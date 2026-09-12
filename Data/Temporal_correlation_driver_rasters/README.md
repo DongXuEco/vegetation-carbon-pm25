@@ -13,4 +13,4 @@ The original raster filenames and available companion files are retained. Downlo
 
 The eight-class convention is described in the [data dictionary](../../docs/data_dictionary.md): hundreds = dominant driver (1 LAI, 2 PM2.5), tens = Q–C correlation sign (1 positive, 2 negative), units = dominant-driver trend sign (1 positive, 2 negative). Class labels are 111, 112, 121, 122, 211, 212, 221 and 222.
 
-These are supplied analysis outputs, copied without reclassification or recalculation. File checksums verify the copies; they do not establish which trend estimator produced the original rasters or independently reproduce the regional area statistics.
+These files contain the supplied classification results. Their metadata do not identify the original trend estimator. Regional area proportions require pixel-area weighting.
